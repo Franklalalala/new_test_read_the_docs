@@ -17,7 +17,20 @@ Contents
 --------
 
 .. toctree::
+    :caption:  User guide
 
    usage
    api
    autosteper
+   untitled
+
+.. toctree::
+    :caption: Development
+
+   contributing
+   license <license>
+   Changelog <changelog>
+   
+
+
+

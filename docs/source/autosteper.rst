@@ -44,6 +44,24 @@ published package. Therefore, it needs to be installed separately:
 
    pip install git+https://github.com/XJTU-ICP/FullereneDataParser
 
+--------------
+
+📝 Note
+
+`FullereneDataParser <https://github.com/XJTU-ICP/FullereneDataParser>`__
+contains part of C++ code, to properly install, an advanced compiler
+version is required. Simply load the highest available version of
+compiler will avoid most of the problems.
+
+--------------
+
+
+see
+
+.. figure:: ./docs/test/fig/addon.png
+   :alt: 
+
+
 Note:
 `FullereneDataParser <https://github.com/XJTU-ICP/FullereneDataParser>`__
 contains part of C++ code, to properly install, an advanced compiler
